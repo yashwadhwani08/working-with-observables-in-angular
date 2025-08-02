@@ -1,3 +1,6 @@
+# working-with-observables-in-angular
+This project is aimed at building deep understanding about how to work with Observables (RxJS) in Angular projects
+
 # Rxjs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
